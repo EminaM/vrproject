@@ -1,0 +1,110 @@
+System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\Users\Rog Zephyrus\Downloads\VRMenu\Models\odm_textured_model_geo.obj".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+  at Dummiesman.OBJLoader.Load (System.String path, System.String mtlPath) [0x0004b] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:316 
+  at Dummiesman.OBJLoader.Load (System.String path) [0x00000] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:330 
+  at InstantiateManager.Update () [0x00017] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:31 
+System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\Users\Rog Zephyrus\Downloads\VRMenu\Models\odm_textured_model_geo.obj".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+  at Dummiesman.OBJLoader.Load (System.String path, System.String mtlPath) [0x0004b] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:316 
+  at Dummiesman.OBJLoader.Load (System.String path) [0x00000] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:330 
+  at InstantiateManager.Update () [0x00017] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:31 
+System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\Users\Rog Zephyrus\Downloads\VRMenu\Models\odm_textured_model_geo.obj".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+  at Dummiesman.OBJLoader.Load (System.String path, System.String mtlPath) [0x0004b] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:316 
+  at Dummiesman.OBJLoader.Load (System.String path) [0x00000] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:330 
+  at InstantiateManager.Update () [0x00017] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:31 
+System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\Users\Rog Zephyrus\Downloads\VRMenu\Models\odm_textured_model_geo.obj".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+  at Dummiesman.OBJLoader.Load (System.String path, System.String mtlPath) [0x0004b] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:316 
+  at Dummiesman.OBJLoader.Load (System.String path) [0x00000] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:330 
+  at InstantiateManager.Update () [0x00017] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:31 
+System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\Users\Rog Zephyrus\Downloads\VRMenu\Models\odm_textured_model_geo.obj".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+  at Dummiesman.OBJLoader.Load (System.String path, System.String mtlPath) [0x0004b] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:316 
+  at Dummiesman.OBJLoader.Load (System.String path) [0x00000] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:330 
+  at InstantiateManager.Update () [0x00017] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:31 
+System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\Users\Rog Zephyrus\Downloads\VRMenu\Models\odm_textured_model_geo.obj".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+  at Dummiesman.OBJLoader.Load (System.String path, System.String mtlPath) [0x0004b] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:316 
+  at Dummiesman.OBJLoader.Load (System.String path) [0x00000] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:330 
+  at InstantiateManager.Update () [0x00017] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:31 
+System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\Users\Rog Zephyrus\Downloads\VRMenu\Models\odm_textured_model_geo.obj".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+  at Dummiesman.OBJLoader.Load (System.String path, System.String mtlPath) [0x0004b] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:316 
+  at Dummiesman.OBJLoader.Load (System.String path) [0x00000] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:330 
+  at InstantiateManager.Update () [0x00017] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:31 
+System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\Users\Rog Zephyrus\Downloads\VRMenu\Models\Models\1\odm_textured_model_geo.obj".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+  at Dummiesman.OBJLoader.Load (System.String path, System.String mtlPath) [0x0004b] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:316 
+  at Dummiesman.OBJLoader.Load (System.String path) [0x00000] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:330 
+  at InstantiateManager.Update () [0x00028] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:46 
+System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\Users\Rog Zephyrus\Downloads\VRMenu\Models\Models\1\odm_textured_model_geo.obj".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode)
+  at Dummiesman.OBJLoader.Load (System.String path, System.String mtlPath) [0x00055] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:316 
+  at Dummiesman.OBJLoader.Load (System.String path) [0x00001] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\OBJImport\OBJLoader.cs:330 
+  at InstantiateManager.Update () [0x00036] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:46 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at InstantiateManager.Update () [0x002a0] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:86 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at InstantiateManager.Update () [0x002a0] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:86 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: shader
+  at (wrapper managed-to-native) UnityEngine.Material.CreateWithShader(UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00008] in <6e7a9b489b134053bc0600a292ec678e>:0 
+  at MTLLoader.Load (System.IO.Stream input) [0x00089] in <7496335d2e6b4a4e9ef924640e383019>:0 
+  at MTLLoader.Load (System.String path) [0x0002f] in <7496335d2e6b4a4e9ef924640e383019>:0 
+  at Dummiesman.OBJLoader.LoadMaterialLibrary (System.String mtlLibPath) [0x00041] in <7496335d2e6b4a4e9ef924640e383019>:0 
+  at Dummiesman.OBJLoader.Load (System.IO.Stream input) [0x000c6] in <7496335d2e6b4a4e9ef924640e383019>:0 
+  at Dummiesman.OBJLoader.Load (System.String path, System.String mtlPath) [0x00053] in <7496335d2e6b4a4e9ef924640e383019>:0 
+  at Dummiesman.OBJLoader.Load (System.String path) [0x00000] in <7496335d2e6b4a4e9ef924640e383019>:0 
+  at InstantiateManager.Update () [0x00038] in <7496335d2e6b4a4e9ef924640e383019>:0 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at InstantiateManager.Update () [0x001d4] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:77 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at InstantiateManager.Update () [0x001d4] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:77 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at InstantiateManager.Update () [0x001cb] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:74 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: shader
+  at (wrapper managed-to-native) UnityEngine.Material.CreateWithShader(UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00008] in <6e7a9b489b134053bc0600a292ec678e>:0 
+  at MTLLoader.Load (System.IO.Stream input) [0x00089] in <254c652a819440a59fbe2a940d30fae4>:0 
+  at MTLLoader.Load (System.String path) [0x0002f] in <254c652a819440a59fbe2a940d30fae4>:0 
+  at Dummiesman.OBJLoader.LoadMaterialLibrary (System.String mtlLibPath) [0x00041] in <254c652a819440a59fbe2a940d30fae4>:0 
+  at Dummiesman.OBJLoader.Load (System.IO.Stream input) [0x000c6] in <254c652a819440a59fbe2a940d30fae4>:0 
+  at Dummiesman.OBJLoader.Load (System.String path, System.String mtlPath) [0x00053] in <254c652a819440a59fbe2a940d30fae4>:0 
+  at Dummiesman.OBJLoader.Load (System.String path) [0x00000] in <254c652a819440a59fbe2a940d30fae4>:0 
+  at InstantiateManager.Update () [0x00038] in <254c652a819440a59fbe2a940d30fae4>:0 
+UnityEngine.MissingComponentException: There is no 'Renderer' attached to the "odm_textured_model_geo" game object, but a script is trying to access it.
+You probably need to add a Renderer to the game object "odm_textured_model_geo". Or your script needs to check if the component is attached before using it.
+  at (wrapper managed-to-native) UnityEngine.Renderer.IsPersistent(UnityEngine.Renderer)
+  at UnityEngine.Renderer.get_material () [0x00001] in <adfa4b62400849189388df71c9e26e89>:0 
+  at InstantiateManager.Update () [0x0004e] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:48 
+UnityEngine.MissingComponentException: There is no 'Renderer' attached to the "odm_textured_model_geo" game object, but a script is trying to access it.
+You probably need to add a Renderer to the game object "odm_textured_model_geo". Or your script needs to check if the component is attached before using it.
+  at (wrapper managed-to-native) UnityEngine.Renderer.IsPersistent(UnityEngine.Renderer)
+  at UnityEngine.Renderer.get_material () [0x00001] in <adfa4b62400849189388df71c9e26e89>:0 
+  at InstantiateManager.Update () [0x0004e] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:48 
+UnityEngine.MissingComponentException: There is no 'Renderer' attached to the "odm_textured_model_geo" game object, but a script is trying to access it.
+You probably need to add a Renderer to the game object "odm_textured_model_geo". Or your script needs to check if the component is attached before using it.
+  at (wrapper managed-to-native) UnityEngine.Renderer.IsPersistent(UnityEngine.Renderer)
+  at UnityEngine.Renderer.get_material () [0x00001] in <adfa4b62400849189388df71c9e26e89>:0 
+  at InstantiateManager.Update () [0x0004e] in C:\Users\Rog Zephyrus\Downloads\VRMenu\Assets\Prefabs\InstantiateManager.cs:48 
